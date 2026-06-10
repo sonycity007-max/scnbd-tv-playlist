@@ -87,9 +87,10 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1 tvg-id="ZEE B. CINEMA" tvg-name="ZEE B. CINEMA" group-title="🍿 Bangla Entertainment" tvg-logo="https://tvassets.roarzone.net/images/29.png",ZEE B. CINEMA
 https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8
- 
+
 #EXTINF:-1 tvg-id="SONY AATH" tvg-name="SONY AATH" group-title="🍿 Bangla Entertainment" tvg-logo="https://tvassets.roarzone.net/images/33.png",SONY AATH
 https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8
+
 #EXTINF:-1 tvg-id="Deshe Bideshe" tvg-name="Deshe Bideshe" group-title="🍿 Bangla Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
@@ -338,7 +339,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 # ==================== MOVIES, MUSIC & DOC ====================
 #EXTINF:-1 tvg-id="MOVIE BANGLA" tvg-name="MOVIE BANGLA" group-title="🎬 Movies, Music & Doc" tvg-logo="https://tvassets.roarzone.net/images/86.png",MOVIE BANGLA
-https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8 
+https://edge2.roarzone.net:8447/roarzone/edge3/movie_bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="pix 11" tvg-name="pix 11" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/294b72dc2ca7b74ab3312059728cab22",pix 11
 https://tvsen6.aynaott.com/pix11/index.m3u8
@@ -482,7 +483,7 @@ https://tvsen7.aynaott.com/cbs/index.m3u8
 #EXTINF:-1 tvg-id="CP 24" tvg-name="CP 24" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",CP 24
 https://tvsen6.aynaott.com/cp24/index.m3u8
 
- #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",MTV
 https://tvsen6.aynaott.com/mtv/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eabe7b33941d288d3e5759384db43d1c
 
 #EXTINF:-1 tvg-id="USA TV" tvg-name="USA TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",USA TV
