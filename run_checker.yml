@@ -2,20 +2,22 @@ name: Auto IPTV Link Checker
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর এই মেশিনটি অটোমেটিক চালু হবে
-  workflow_dispatch: # আপনি চাইলে ম্যানুয়ালিও গিটহাব থেকে যেকোনো সময় রান করতে পারবেন
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   check-links:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # গিটহাবকে ফাইল লেখার অনুমতি দেওয়া হলো
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-node: '3.10'
+        python-version: '3.10'
 
     - name: Install Dependencies
       run: pip install requests
@@ -24,9 +26,19 @@ jobs:
       run: python checker.py
 
     - name: Commit and Push Active Playlist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # এই লাইনটি গিটহাবের সিকিউরিটি টোকেন পাস করবে
       run: |
         git config --global user.name "SCNBD Bot"
         git config --global user.email "bot@scnbd.tv"
-        git add active_channels.m3u
-        git commit -m "Auto Update: Active Channels Playlist" || exit 0
-        git push
+        
+        # ফাইলটি তৈরি হয়েছে কিনা নিশ্চিত করা
+        if [ -f active_channels.m3u ]; then
+          git add active_channels.m3u
+          # যদি নতুন কোনো পরিবর্তন না থাকে তবে এরর না দিয়ে স্কিপ করবে
+          git commit -m "Auto Update: Active Channels Playlist" || exit 0
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        else
+          echo "Error: active_channels.m3u file was not created!"
+          exit 1
+        fi
