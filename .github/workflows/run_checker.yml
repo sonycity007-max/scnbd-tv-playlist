@@ -2,20 +2,22 @@ name: Auto IPTV Link Checker
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর এই মেশিনটি অটোমেটিক চালু হবে
-  workflow_dispatch: # আপনি চাইলে ম্যানুয়ালিও গিটহাব থেকে যেকোনো সময় রান করতে পারবেন
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   check-links:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-node: '3.10'
+        python-version: '3.10'
 
     - name: Install Dependencies
       run: pip install requests
