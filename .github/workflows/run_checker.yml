@@ -1,0 +1,32 @@
+name: Auto IPTV Link Checker
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর এই মেশিনটি অটোমেটিক চালু হবে
+  workflow_dispatch: # আপনি চাইলে ম্যানুয়ালিও গিটহাব থেকে যেকোনো সময় রান করতে পারবেন
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-node: '3.10'
+
+    - name: Install Dependencies
+      run: pip install requests
+
+    - name: Run Link Checker Script
+      run: python checker.py
+
+    - name: Commit and Push Active Playlist
+      run: |
+        git config --global user.name "SCNBD Bot"
+        git config --global user.email "bot@scnbd.tv"
+        git add active_channels.m3u
+        git commit -m "Auto Update: Active Channels Playlist" || exit 0
+        git push
