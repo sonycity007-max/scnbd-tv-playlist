@@ -1,39 +1,34 @@
-import requests
-import re
+name: Auto IPTV Link Checker
 
-INPUT_M3U = "all_channels.m3u" 
-OUTPUT_M3U = "active_channels.m3u"
+on:
+  schedule:
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর অটোমেটিক রান হবে
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
-def check_link(url):
-    try:
-        # প্রথমে HEAD রিকোয়েস্ট দিয়ে চেক করবে দ্রুত হওয়ার জন্য
-        response = requests.head(url, timeout=4, allow_redirects=True)
-        if response.status_code == 200:
-            return True
-        # কিছু ওটিটি সার্ভার HEAD ব্লক করলে GET দিয়ে শেষ চেষ্টা করবে
-        response = requests.get(url, timeout=4, stream=True)
-        return response.status_code == 200
-    except:
-        return False
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # কোডের ভেতর থেকেও আমরা পারমিশন নিশ্চিত করে দিলাম
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4 # ভার্সন আপডেট করা হয়েছে (Node 24 এর জন্য)
 
-def parse_and_filter_m3u():
-    try:
-        with open(INPUT_M3U, "r", encoding="utf-8") as f:
-            content = f.read()
-    except FileNotFoundError:
-        print("Error: all_channels.m3u file not found!")
-        return
+    - name: Set up Python
+      uses: actions/setup-python@v5 # ভার্সন আপডেট করা হয়েছে
+      with:
+        python-version: '3.10' # এখানে আগের ভুলটি ঠিক করা হয়েছে
 
-    pattern = re.compile(r'(#EXTINF:.*?\n)(http[s]?://[^\s]+)')
-    matches = pattern.findall(content)
-    
-    with open(OUTPUT_M3U, "w", encoding="utf-8") as out_f:
-        out_f.write("#EXTM3U\n\n")
-        
-        for extinf, url in matches:
-            if check_link(url.strip()):
-                out_f.write(extinf)
-                out_f.write(url + "\n\n")
+    - name: Install Dependencies
+      run: pip install requests
 
-if __name__ == "__main__":
-    parse_and_filter_m3u()
+    - name: Run Link Checker Script
+      run: python checker.py
+
+    - name: Commit and Push Active Playlist
+      run: |
+        git config --global user.name "SCNBD Bot"
+        git config --global user.email "bot@scnbd.tv"
+        git add active_channels.m3u
+        git commit -m "Auto Update: Active Channels Playlist" || exit 0
+        git push
