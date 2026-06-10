@@ -24,9 +24,6 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c",Deepto TV
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Gazi TV" tvg-name="Gazi TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",Gazi TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
@@ -188,9 +185,6 @@ https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 
 #EXTINF:-1 tvg-id="ATN News" tvg-name="ATN News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce",ATN News
 https://tvsen6.aynaott.com/atnnews/index.m3u8
-
-#EXTINF:-1 tvg-id="Independent TV" tvg-name="Independent TV" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",Independent TV
-https://tvsen6.aynaott.com/independenttv/index.m3u8
 
 #EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",DBC News
 https://tvsen6.aynaott.com/dbcnews/index.m3u8
@@ -468,9 +462,6 @@ https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 #EXTINF:-1 tvg-id="Assam Talks" tvg-name="Assam Talks" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff",Assam Talks
 https://tvsen7.aynaott.com/AssamTalks/index.m3u8
 
-#EXTINF:-1 tvg-id="Taaza TV" tvg-name="Taaza TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/01c9cb3e1a4c90da6685700da863f0ce",Taaza TV
-https://tvsen7.aynaott.com/TaazaTV/index.m3u8
-
 #EXTINF:-1 tvg-id="Dangal" tvg-name="Dangal" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/cb1c3e153b951760fb0396cd27b8a715",Dangal
 https://tvsen6.aynaott.com/Dangal/index.m3u8
 
@@ -482,9 +473,6 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="9x Jalwa" tvg-name="9x Jalwa" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869",9x Jalwa
 https://tvsen6.aynaott.com/9xjalwa/index.m3u8
-
-#EXTINF:-1 tvg-id="9X Tashan" tvg-name="9X Tashan" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2",9X Tashan
-https://tvsen6.aynaott.com/9X_Tashan/index.m3u8
 
 #EXTINF:-1 tvg-id="Dhinchaak" tvg-name="Dhinchaak" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282",Dhinchaak
 https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
