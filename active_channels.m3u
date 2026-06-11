@@ -36,6 +36,9 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="NBC Sports" tvg-name="NBC Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="FIFA+ Channel" tvg-name="FIFA+ Channel" group-title="🏆 Sports Channels" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(11).jpeg",FIFA+ Channel
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+
 #EXTINF:-1 tvg-id="KTV Sport Plus" tvg-name="KTV Sport Plus" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
@@ -59,6 +62,9 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oman Sports TV" tvg-name="Oman Sports TV" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Sports Fishing TV" tvg-name="Sports Fishing TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Fishing&background=2a2d35&color=fff&rounded=true",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
