@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 3)
 https://live.asimxtech.online/skyfeed/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 4)
+https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="GOL Classics" tvg-name="GOL Classics" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",GOL Classics (Football)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8
 
@@ -33,9 +36,6 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="NBC Sports" tvg-name="NBC Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="FIFA+ Channel" tvg-name="FIFA+ Channel" group-title="🏆 Sports Channels" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(11).jpeg",FIFA+ Channel
-https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
-
 #EXTINF:-1 tvg-id="KTV Sport Plus" tvg-name="KTV Sport Plus" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
@@ -59,9 +59,6 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oman Sports TV" tvg-name="Oman Sports TV" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Sports Fishing TV" tvg-name="Sports Fishing TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Fishing&background=2a2d35&color=fff&rounded=true",Sports Fishing TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
@@ -104,6 +101,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="📰 Live News & Info",Channel 24 (Server 2)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="📰 Live News & Info",Ekattor TV (Server 2)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="📰 Live News & Info",Independent TV (Server 2)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
@@ -245,6 +245,9 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="Khushboo" tvg-name="Khushboo" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
+
+#EXTINF:-1 tvg-id="Travel XP" tvg-name="Travel XP" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/a676d2f5ddf6e5f978b3d51876dceecf",Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4k Travel TV" tvg-name="4k Travel TV" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596",4k Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
