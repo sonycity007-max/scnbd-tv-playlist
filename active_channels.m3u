@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 3)
 https://live.asimxtech.online/skyfeed/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 4)
-https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="GOL Classics" tvg-name="GOL Classics" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",GOL Classics (Football)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8
 
