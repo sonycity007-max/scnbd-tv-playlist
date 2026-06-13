@@ -1,6 +1,195 @@
 #EXTM3U
 
 # ==================== SPORTS CHANNELS ====================
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/21cf2JMJ/raj.jpg" group-title="🍿 Bangla Channels",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7nzTtdr/atn-bangla1.jpg" group-title="🍿 Bangla Channels",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WLLbRKJ/atn-news-bd.png" group-title="🍿 Bangla Channels",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4QWxMQ1/ayna.jpg" group-title="🍿 Bangla Channels",Ayna
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcwNgB43/banglavision.webp" group-title="🍿 Bangla Channels",Banglavision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bjkfc8hK/Boishakhi-TV.jpg" group-title="🍿 Bangla Channels",Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/99p0GMC2/Bijoy-TV.jpg" group-title="🍿 Bangla Channels",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zb9bcSY/btv.png" group-title="🍿 Bangla Channels",BTV National {FIFA}
+https://tvsen6.aynaott.com/btvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/svy22fBF/Channel1-Bangladesh-1.png" group-title="🍿 Bangla Channels",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvXfQw8Z/channel24.jpg" group-title="🍿 Bangla Channels",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xCTyLb3/ch9-150x150.jpg" group-title="🍿 Bangla Channels",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg" group-title="🍿 Bangla Channels",Channel S BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zHfXwnZX/chi-150x150.jpg" group-title="🍿 Bangla Channels",Channeli
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NX6gsgJ/dbc-news.jpg" group-title="🍿 Bangla Channels",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRfwD8jk/DESH-TV1.png" group-title="🍿 Bangla Channels",Desh TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7x9WW1r3/deepto-tv.png" group-title="🍿 Bangla Channels",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23Q1KCVZ/ekattor.png" group-title="🍿 Bangla Channels",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fYbJVy3P/ekhontv.jpg" group-title="🍿 Bangla Channels",Ekhon TV
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JwWDTBpG/ekusheytv.jpg" group-title="🍿 Bangla Channels",Ekushey TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ng4D11Vr/entertv.jpg" group-title="🍿 Bangla Channels",Enter TV
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chCJjgQC/gtv.jpg" group-title="🍿 Bangla Channels",GTV
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zW0CPD9Z/independent-tv.png" group-title="🍿 Bangla Channels",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2RsKwC2/jamuna-tv-bd.png" group-title="🍿 Bangla Channels",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ksDmSjMP/maasranga.jpg" group-title="🍿 Bangla Channels",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6yn2N5v/mohona.jpg" group-title="🍿 Bangla Channels",Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5WYMKhRL/ntv-channel-0.jpg" group-title="🍿 Bangla Channels",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/35ZH1fHG/news-24-bd.png" group-title="🍿 Bangla Channels",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8" group-title="🍿 Bangla Channels",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x71442" group-title="🍿 Bangla Channels",Songsad TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDKWFWRK/somoy-news.png" group-title="🍿 Bangla Channels",Somoy News {FIFA}
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFc8Hd8v/starnews.jpg" group-title="🍿 Bangla Channels",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpwqzPZg/thikana.png" group-title="🍿 Bangla Channels",Thikana TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xt6RK79j/toffeed.png" group-title="🍿 Bangla Channels",Toffee Dramas
+https://ottbanglaplatform.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbNGKKb9/win.jpg" group-title="🏆 Sports Channels",WIN Sports {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg" group-title="🏆 Sports Channels",Bein Sports 1 {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg" group-title="🏆 Sports Channels",Bein Sports 2
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg" group-title="🏆 Sports Channels",Bein Sports 3
+https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
+https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
+https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD6t85mv/bs6m.png" group-title="🏆 Sports Channels",Bein Sports 6 MAX
+https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
+https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W7WLXQD/bs8m.png" group-title="🏆 Sports Channels",Bein Sports 8 MAX
+https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg" group-title="🏆 Sports Channels",Bein Sports Xtra {FIFA}
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VchBJ37W/DD-Sports.png" group-title="🏆 Sports Channels",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdSrr5Dd/big.webp" group-title="🏆 Sports Channels",BIG CRICKET League
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZWDLf5r/sony-ten-sports-1-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 1
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fYbp36Mp/sony-ten-sports-2-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23CW2X9S/sony-ten-sports-5-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 5
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rp4jxCQS/ten-cricket.png" group-title="🏆 Sports Channels",Ten cricket
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png" group-title="🏆 Sports Channels",XTREM SPORTS
+https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png" group-title="🌐 Hindi Channels",AAJ Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png" group-title="🌐 Hindi Channels",GEO Entertainment
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg" group-title="🌐 Hindi Channels",Green Entertainment
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkkPqjQY/Hum-TV.png" group-title="🌐 Hindi Channels",Hum TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNkbWkJ8/Republic-Bangla-TV.png" group-title="🌐 Hindi Channels",Republic Bangla TV
+https://tvsen5.aynaott.com/R_Bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7xrRk9M/Sony-Aath.png" group-title="🌐 Hindi Channels",Sony Aath
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8BT8GP8/Sony-max.png" group-title="🌐 Hindi Channels",Sony max
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp" group-title="🌐 Hindi Channels",Sony Max 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6Jt6b5Hb/Star-Jalsa.png" group-title="🌐 Hindi Channels",Star Jalsa
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png" group-title="🌐 Hindi Channels",& Pictures HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 1)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
@@ -612,7 +801,7 @@ https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8
 
 # ==================== LIFESTYLE & TRAVEL ====================
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac",Food Network
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1779283870&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dda0004b8e85ccc033f3473846741003
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="COOKING TV" tvg-name="COOKING TV" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/bf9792dc04cace6a25407b6304a35046",COOKING TV
 https://tvsen7.aynaott.com/cooking/index.m3u8
@@ -667,13 +856,13 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
 
 #EXTINF:-1 tvg-id="MADANI TV" tvg-name="MADANI TV" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039",MADANI TV
-https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1779283937&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8e3699711dd88227b533acc570b06a7b
+https://tvsen7.aynaott.com/MadaniTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Deen TV" tvg-name="Deen TV" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e",Deen TV
-https://tvsen7.aynaott.com/deen/index.m3u8?e=1779283935&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d49bc388cc0adea4907ecc83f4c83c4c
+https://tvsen7.aynaott.com/deen/index.m3u8
 
 #EXTINF:-1 tvg-id="Eman Channel" tvg-name="Eman Channel" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce",Eman Channel
-https://tvsen6.aynaott.com/eman/index.m3u8?e=1779283935&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=08f8a7c54838dd4274f8b058bbed710e
+https://tvsen6.aynaott.com/eman/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel Win" tvg-name="Channel Win" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7",Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
