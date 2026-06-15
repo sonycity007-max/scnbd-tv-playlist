@@ -9,9 +9,6 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg" group-title="🏆 Sports Channels",Bein Sports 2
 https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg" group-title="🏆 Sports Channels",Bein Sports 3
-https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
 https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
 
@@ -21,9 +18,6 @@ https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD6t85mv/bs6m.png" group-title="🏆 Sports Channels",Bein Sports 6 MAX
 https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
-https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W7WLXQD/bs8m.png" group-title="🏆 Sports Channels",Bein Sports 8 MAX
 https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 
@@ -32,18 +26,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VchBJ37W/DD-Sports.png" group-title="🏆 Sports Channels",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZWDLf5r/sony-ten-sports-1-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 1
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fYbp36Mp/sony-ten-sports-2-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23CW2X9S/sony-ten-sports-5-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 5
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rp4jxCQS/ten-cricket.png" group-title="🏆 Sports Channels",Ten cricket
-https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png" group-title="🏆 Sports Channels",XTREM SPORTS
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
@@ -63,20 +45,8 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7xrRk9M/Sony-Aath.png" group-title="🌐 Hindi Channels",Sony Aath
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8BT8GP8/Sony-max.png" group-title="🌐 Hindi Channels",Sony max
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp" group-title="🌐 Hindi Channels",Sony Max 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6Jt6b5Hb/Star-Jalsa.png" group-title="🌐 Hindi Channels",Star Jalsa
 https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png" group-title="🌐 Hindi Channels",& Pictures HD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="GOL Classics" tvg-name="GOL Classics" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",GOL Classics (Football)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8
@@ -165,9 +135,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpwqzPZg/thikana.png" group-title="🍿 Bangla Channels",Thikana TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xt6RK79j/toffeed.png" group-title="🍿 Bangla Channels",Toffee Dramas
-https://ottbanglaplatform.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
-
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
@@ -249,6 +216,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="🧸 Kids Channels",Pogo
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="Jungle Book" tvg-name="Jungle Book" group-title="🧸 Kids Channels" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
 #EXTINF:-1 tvg-id="Rongeen TV" tvg-name="Rongeen TV" group-title="🧸 Kids Channels" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
@@ -257,9 +227,6 @@ https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dios Te Ve Kids" tvg-name="Dios Te Ve Kids" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCARiB Kids" tvg-name="TVCARiB Kids" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6",TVCARiB Kids
-https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
 #EXTINF:-1 tvg-id="Sangeet Bangla" tvg-name="Sangeet Bangla" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -303,9 +270,6 @@ https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/18d95033c5d53fc3b159141a842fdeac",Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Geo ENT" tvg-name="Geo ENT" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596",Geo ENT
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Action H'wood" tvg-name="Action H'wood" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb",Action H'wood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -332,6 +296,9 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wild TV" tvg-name="Wild TV" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" group-title="🕌 Religious, Weather & Info" tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Channel Win" tvg-name="Channel Win" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7",Channel Win
 https://cdn-4.pishow.tv/live/229/master.m3u8
