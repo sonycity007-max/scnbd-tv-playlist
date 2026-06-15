@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 1)
+http://103.145.113.11:7171/t-sports/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",T-Sports Live 1 (Server 3)
+http://103.145.113.11:7171/BTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbNGKKb9/win.jpg" group-title="🏆 Sports Channels",WIN Sports {FIFA}
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
@@ -131,6 +137,9 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Sports Fishing TV" tvg-name="Sports Fishing TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Fishing&background=2a2d35&color=fff&rounded=true",Sports Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/21cf2JMJ/raj.jpg" group-title="🍿 Bangla Channels",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4QWxMQ1/ayna.jpg" group-title="🍿 Bangla Channels",Ayna
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
