@@ -18,6 +18,12 @@ https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
 https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
+https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD6t85mv/bs6m.png" group-title="🏆 Sports Channels",Bein Sports 6 MAX
+https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
 https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
 
@@ -167,6 +173,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 
 #EXTINF:-1 tvg-id="Enter 10 Bangla" tvg-name="Enter 10 Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Deshe Bideshe" tvg-name="Deshe Bideshe" group-title="🍿 Bangla Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Bangla" tvg-name="TV9 Bangla" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
