@@ -114,6 +114,9 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Oman Sports TV" tvg-name="Oman Sports TV" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Sports Fishing TV" tvg-name="Sports Fishing TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Fishing&background=2a2d35&color=fff&rounded=true",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/21cf2JMJ/raj.jpg" group-title="🍿 Bangla Channels",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
