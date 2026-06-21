@@ -63,12 +63,6 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8
 #EXTINF:-1 tvg-id="The Hockey Network" tvg-name="The Hockey Network" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",The Hockey Network (IT TV)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
-#EXTINF:-1 tvg-id="Arryadia HD 1" tvg-name="Arryadia HD 1" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia+HD&background=1e293b&color=fff&rounded=true",Arryadia HD 1
-https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Arryadia TV" tvg-name="Arryadia TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",Arryadia TV
-https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sony Ten Cricket HD" tvg-name="Sony Ten Cricket HD" group-title="🏆 Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Sony Ten Cricket HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
@@ -119,6 +113,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/21cf2JMJ/raj.jpg" group-title="🍿 Bangla Channels",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4QWxMQ1/ayna.jpg" group-title="🍿 Bangla Channels",Ayna
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg" group-title="🍿 Bangla Channels",Channel S BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
@@ -227,6 +224,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.png" group-title="🧸 Kids Channels",Sony Yay
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="🧸 Kids Channels",Pogo
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Jungle Book" tvg-name="Jungle Book" group-title="🧸 Kids Channels" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
