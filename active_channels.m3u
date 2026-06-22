@@ -15,11 +15,17 @@ https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg" group-title="🏆 Sports Channels",Bein Sports 3
 https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
-https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
+https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD6t85mv/bs6m.png" group-title="🏆 Sports Channels",Bein Sports 6 MAX
+https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
 https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W7WLXQD/bs8m.png" group-title="🏆 Sports Channels",Bein Sports 8 MAX
+https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg" group-title="🏆 Sports Channels",Bein Sports Xtra {FIFA}
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -129,6 +135,9 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6yn2N5v/mohona.jpg" group-title="🍿 Bangla Channels",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
 
@@ -209,6 +218,9 @@ https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="🔬 Infotainment",History TV 18 HD
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="🧸 Kids Channels",Cartoon Network HD (Server 2)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🧸 Kids Channels",Nick Bangla
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
