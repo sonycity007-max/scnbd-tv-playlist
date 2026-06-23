@@ -51,9 +51,6 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6Jt6b5Hb/Star-Jalsa.png" group-title="🌐 Hindi Channels",Star Jalsa
-https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
-
 #EXTINF:-1 tvg-id="GOL Classics" tvg-name="GOL Classics" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",GOL Classics (Football)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8
 
@@ -195,6 +192,9 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="🔬 Infotainment",History TV 18 HD
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="🧸 Kids Channels",Cartoon Network HD (Server 2)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🧸 Kids Channels",Nick Bangla
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
@@ -225,14 +225,8 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="SRK TV" tvg-name="SRK TV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/IMG_20260528_193117_215.jpg",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="G Series Drama" tvg-name="G Series Drama" group-title="🎬 Movies, Music & Doc" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(7).jpeg",G Series Drama
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="ShemarooTV" tvg-name="ShemarooTV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",ShemarooTV
 https://cdn-3.pishow.tv/live/230/master.m3u8
-
-#EXTINF:-1 tvg-id="Hindi Movie Clsc" tvg-name="Hindi Movie Clsc" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Clsc
-https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" group-title="🎬 Movies, Music & Doc" tvg-logo="https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
