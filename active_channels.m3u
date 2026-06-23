@@ -21,6 +21,9 @@ https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
 https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD6t85mv/bs6m.png" group-title="🏆 Sports Channels",Bein Sports 6 MAX
+https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
 https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
 
@@ -50,6 +53,9 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6Jt6b5Hb/Star-Jalsa.png" group-title="🌐 Hindi Channels",Star Jalsa
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
 
 #EXTINF:-1 tvg-id="GOL Classics" tvg-name="GOL Classics" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",GOL Classics (Football)
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8
@@ -210,9 +216,6 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="Rongeen TV" tvg-name="Rongeen TV" group-title="🧸 Kids Channels" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Kids Pang TV" tvg-name="Kids Pang TV" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf",Kids Pang TV
-https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dios Te Ve Kids" tvg-name="Dios Te Ve Kids" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
@@ -225,8 +228,14 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="SRK TV" tvg-name="SRK TV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/IMG_20260528_193117_215.jpg",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="G Series Drama" tvg-name="G Series Drama" group-title="🎬 Movies, Music & Doc" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(7).jpeg",G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="ShemarooTV" tvg-name="ShemarooTV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/c63628e7301ba1eded68c0f75ab8d903",ShemarooTV
 https://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="Hindi Movie Clsc" tvg-name="Hindi Movie Clsc" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Clsc
+https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" group-title="🎬 Movies, Music & Doc" tvg-logo="https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",TBS
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
