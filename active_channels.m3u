@@ -18,6 +18,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png" group-title="🏆 Sports Channels",XTREM SPORTS
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png" group-title="🌐 Hindi Channels",AAJ Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png" group-title="🌐 Hindi Channels",GEO Entertainment
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg" group-title="🌐 Hindi Channels",Green Entertainment
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkkPqjQY/Hum-TV.png" group-title="🌐 Hindi Channels",Hum TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
@@ -101,6 +113,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="🍿 Bangla Entertainment",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -227,6 +242,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 #EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Awaaz India" tvg-name="Awaaz India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",Awaaz India
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="Music India" tvg-name="Music India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
