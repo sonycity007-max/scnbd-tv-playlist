@@ -42,14 +42,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/6
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png" group-title="🌐 Hindi Channels",AAJ Entertainment
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png" group-title="🌐 Hindi Channels",GEO Entertainment
-https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg" group-title="🌐 Hindi Channels",Green Entertainment
 https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkkPqjQY/Hum-TV.png" group-title="🌐 Hindi Channels",Hum TV
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
@@ -132,9 +126,6 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6yn2N5v/mohona.jpg" group-title="🍿 Bangla Channels",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
 
@@ -197,9 +188,6 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-id="OAN" tvg-name="OAN" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Iran Press" tvg-name="Iran Press" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",Iran Press
-https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="R Plus" tvg-name="R Plus" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
