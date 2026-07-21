@@ -36,6 +36,18 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VchBJ37W/DD-Sports.png" group-title="🏆 Sports Channels",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZWDLf5r/sony-ten-sports-1-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 1
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fYbp36Mp/sony-ten-sports-2-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23CW2X9S/sony-ten-sports-5-hd.jpg" group-title="🏆 Sports Channels",SONY SPORTS 5
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rp4jxCQS/ten-cricket.png" group-title="🏆 Sports Channels",Ten cricket
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png" group-title="🏆 Sports Channels",XTREM SPORTS
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
@@ -48,11 +60,20 @@ https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg" group-title="🌐 Hindi Channels",Green Entertainment
 https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkkPqjQY/Hum-TV.png" group-title="🌐 Hindi Channels",Hum TV
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7xrRk9M/Sony-Aath.png" group-title="🌐 Hindi Channels",Sony Aath
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8BT8GP8/Sony-max.png" group-title="🌐 Hindi Channels",Sony max
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp" group-title="🌐 Hindi Channels",Sony Max 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png" group-title="🌐 Hindi Channels",& Pictures HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="The Hockey Network" tvg-name="The Hockey Network" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",The Hockey Network (IT TV)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
