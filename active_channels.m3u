@@ -75,6 +75,9 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp" group-title="🌐 Hindi Channels",Sony Max 2
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png" group-title="🌐 Hindi Channels",& Pictures HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8
+
 #EXTINF:-1 tvg-id="The Hockey Network" tvg-name="The Hockey Network" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",The Hockey Network (IT TV)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
@@ -182,6 +185,9 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="🍿 Bangla Entertainment",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
