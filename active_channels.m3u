@@ -72,9 +72,6 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8BT8GP8/Sony-max.png" group-title="🌐 Hindi Channels",Sony max
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp" group-title="🌐 Hindi Channels",Sony Max 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png" group-title="🌐 Hindi Channels",& Pictures HD
 https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8
 
@@ -252,9 +249,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Jungle Book" tvg-name="Jungle Book" group-title="🧸 Kids Channels" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-id="Rongeen TV" tvg-name="Rongeen TV" group-title="🧸 Kids Channels" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dios Te Ve Kids" tvg-name="Dios Te Ve Kids" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
@@ -263,6 +257,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 
 #EXTINF:-1 tvg-id="Sangeet Bangla" tvg-name="Sangeet Bangla" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="SRK TV" tvg-name="SRK TV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/IMG_20260528_193117_215.jpg",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="G Series Drama" tvg-name="G Series Drama" group-title="🎬 Movies, Music & Doc" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(7).jpeg",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
