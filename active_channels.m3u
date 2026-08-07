@@ -177,6 +177,9 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
+#EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
 #EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
@@ -212,9 +215,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/f63d4aad95532175f7f44be439f74111",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",Sky News
-https://tvsen5.aynaott.com/skynews/index.m3u8
 
 #EXTINF:-1 tvg-id="News Nation" tvg-name="News Nation" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
