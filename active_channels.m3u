@@ -48,6 +48,9 @@ https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTINF:-1 tvg-id="Arryadia HD 1" tvg-name="Arryadia HD 1" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia+HD&background=1e293b&color=fff&rounded=true",Arryadia HD 1
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Arryadia TV" tvg-name="Arryadia TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",Arryadia TV
+https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sony Ten Cricket HD" tvg-name="Sony Ten Cricket HD" group-title="🏆 Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Sony Ten Cricket HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
@@ -153,6 +156,9 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
+#EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
 #EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
@@ -230,9 +236,6 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",Cartoon Network (Server 1)
 https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="🧸 Kids Channels",Cartoon Network HD (Server 2)
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🧸 Kids Channels",Nick Bangla
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
