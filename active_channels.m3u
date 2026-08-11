@@ -132,6 +132,9 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6yn2N5v/mohona.jpg" group-title="🍿 Bangla Channels",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
 
@@ -188,6 +191,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kolkata TV" tvg-name="kolkata TV" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",kolkata TV
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera" tvg-name="AlJazeera" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf",AlJazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -350,9 +356,6 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-id="ABN" tvg-name="ABN" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-
-#EXTINF:-1 tvg-id="WEATHER CH." tvg-name="WEATHER CH." group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",WEATHER CH.
-https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779283877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bff83cb7a2fcd3dbef83a9a3c7b969c4
 
 #EXTINF:-1 tvg-id="AccuWeather" tvg-name="AccuWeather" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
