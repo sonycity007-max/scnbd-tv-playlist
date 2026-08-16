@@ -90,6 +90,9 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTS FIRST" tvg-name="SPORTS FIRST" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",SPORTS FIRST
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
+#EXTINF:-1 tvg-id="Marquee Sports" tvg-name="Marquee Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+
 #EXTINF:-1 tvg-id="Sports Grid" tvg-name="Sports Grid" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8
 
@@ -314,6 +317,9 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="pix 11" tvg-name="pix 11" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/294b72dc2ca7b74ab3312059728cab22",pix 11
 https://tvsen6.aynaott.com/pix11/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC TV" tvg-name="AMC TV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/5522b7ef736d7f4e7f80ac6325dce821",AMC TV
+https://tvsen6.aynaott.com/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="AXS" tvg-name="AXS" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/56d2c21362152b678998094f1c670dd5",AXS
 https://tvsen6.aynaott.com/axs/index.m3u8
