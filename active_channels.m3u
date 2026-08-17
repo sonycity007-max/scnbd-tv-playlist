@@ -180,6 +180,12 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
+#EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
