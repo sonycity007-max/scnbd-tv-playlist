@@ -18,9 +18,6 @@ https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
 https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DD6t85mv/bs6m.png" group-title="🏆 Sports Channels",Bein Sports 6 MAX
-https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
 https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
 
@@ -54,14 +51,14 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="The Hockey Network" tvg-name="The Hockey Network" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",The Hockey Network (IT TV)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
+#EXTINF:-1 tvg-id="Arryadia HD 1" tvg-name="Arryadia HD 1" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia+HD&background=1e293b&color=fff&rounded=true",Arryadia HD 1
+https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Arryadia TV" tvg-name="Arryadia TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",Arryadia TV
 https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten Cricket HD" tvg-name="Sony Ten Cricket HD" group-title="🏆 Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Sony Ten Cricket HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",A-Sports (Server 2)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1 tvg-id="Willow HD TV" tvg-name="Willow HD TV" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",Willow HD TV (Server 1)
 https://tvsen5.aynaott.com/willowhd/index.m3u8
@@ -132,6 +129,9 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4QWxMQ1/ayna.jpg" group-title="🍿 Bangla Channels",Ayna
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg" group-title="🍿 Bangla Channels",Channel S BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRfwD8jk/DESH-TV1.png" group-title="🍿 Bangla Channels",Desh TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
 
@@ -152,6 +152,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8" group-title="🍿 Bangla Channels",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDKWFWRK/somoy-news.png" group-title="🍿 Bangla Channels",Somoy News {FIFA}
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
