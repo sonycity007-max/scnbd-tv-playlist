@@ -435,9 +435,6 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 #EXTINF:-1 tvg-id="ABN" tvg-name="ABN" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 
-#EXTINF:-1 tvg-id="WEATHER CH." tvg-name="WEATHER CH." group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",WEATHER CH.
-https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779283877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bff83cb7a2fcd3dbef83a9a3c7b969c4
-
 #EXTINF:-1 tvg-id="AccuWeather" tvg-name="AccuWeather" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
