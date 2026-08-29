@@ -33,18 +33,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png" group-title="🏆 Sports Channels",XTREM SPORTS
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png" group-title="🌐 Hindi Channels",AAJ Entertainment
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png" group-title="🌐 Hindi Channels",GEO Entertainment
-https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg" group-title="🌐 Hindi Channels",Green Entertainment
-https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkkPqjQY/Hum-TV.png" group-title="🌐 Hindi Channels",Hum TV
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
@@ -150,17 +138,11 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6yn2N5v/mohona.jpg" group-title="🍿 Bangla Channels",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8" group-title="🍿 Bangla Channels",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDKWFWRK/somoy-news.png" group-title="🍿 Bangla Channels",Somoy News {FIFA}
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
@@ -375,9 +357,6 @@ https://tvsen6.aynaott.com/fox5/index.m3u8
 #EXTINF:-1 tvg-id="Fox business" tvg-name="Fox business" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",Fox business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 
-#EXTINF:-1 tvg-id="Awaaz India" tvg-name="Awaaz India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",Awaaz India
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-
 #EXTINF:-1 tvg-id="Music India" tvg-name="Music India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
@@ -434,6 +413,9 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 
 #EXTINF:-1 tvg-id="ABN" tvg-name="ABN" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+
+#EXTINF:-1 tvg-id="WEATHER CH." tvg-name="WEATHER CH." group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/67e08c23033802b4443baf81d1b048bf",WEATHER CH.
+https://tvsen6.aynaott.com/TheWeatherChannel/index.m3u8?e=1779283877&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bff83cb7a2fcd3dbef83a9a3c7b969c4
 
 #EXTINF:-1 tvg-id="AccuWeather" tvg-name="AccuWeather" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/21992f5e8529a9d2a94b6edf917dbd8f",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
