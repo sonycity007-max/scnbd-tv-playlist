@@ -78,9 +78,6 @@ https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",Sport Stars
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBC Sports" tvg-name="NBC Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
 #EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
 
@@ -138,6 +135,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRfwD8jk/DESH-TV1.png" group-title="🍿 Bangla Channels",Desh TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JwWDTBpG/ekusheytv.jpg" group-title="🍿 Bangla Channels",Ekushey TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ng4D11Vr/entertv.jpg" group-title="🍿 Bangla Channels",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 
@@ -179,6 +179,9 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -347,9 +350,6 @@ https://tvsen6.aynaott.com/mtv/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4
 
 #EXTINF:-1 tvg-id="Action H'wood" tvg-name="Action H'wood" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb",Action H'wood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8",Court TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox 5" tvg-name="Fox 5" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",Fox 5
 https://tvsen6.aynaott.com/fox5/index.m3u8
