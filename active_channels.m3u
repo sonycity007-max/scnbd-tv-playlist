@@ -66,9 +66,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-id="Willow HD TV" tvg-name="Willow HD TV" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",Willow HD TV (Server 1)
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-id="Bleav Football" tvg-name="Bleav Football" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",Bleav Football
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",Espn
 https://tvsen5.aynaott.com/espn/index.m3u8
 
@@ -179,6 +176,9 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ATN Bangla" tvg-name="ATN Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
