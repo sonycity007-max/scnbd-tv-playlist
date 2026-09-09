@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbNGKKb9/win.jpg" group-title="🏆 Sports Channels",WIN Sports {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg" group-title="🏆 Sports Channels",Bein Sports 1 {FIFA}
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg" group-title="🏆 Sports Channels",Bein Sports 2
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg" group-title="🏆 Sports Channels",Bein Sports 3
+https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
+https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
+https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
+https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W7WLXQD/bs8m.png" group-title="🏆 Sports Channels",Bein Sports 8 MAX
+https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg" group-title="🏆 Sports Channels",Bein Sports Xtra {FIFA}
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
@@ -401,6 +425,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 #EXTINF:-1 tvg-id="Fox Weather" tvg-name="Fox Weather" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/6dd20ecde19ea3f6b6cf6c040701973e",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Weather" tvg-name="Sky Weather" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/78b7ab973209ec06346cf8acfd8544cd",Sky Weather
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Weather SPY" tvg-name="Weather SPY" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/b0bdea4df810e2d46f689cbb6c990c91",Weather SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
