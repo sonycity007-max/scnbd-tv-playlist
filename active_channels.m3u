@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbNGKKb9/win.jpg" group-title="🏆 Sports Channels",WIN Sports {FIFA}
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg" group-title="🏆 Sports Channels",Bein Sports 1 {FIFA}
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg" group-title="🏆 Sports Channels",Bein Sports 2
-https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg" group-title="🏆 Sports Channels",Bein Sports 3
-https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
-https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
-https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
-https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W7WLXQD/bs8m.png" group-title="🏆 Sports Channels",Bein Sports 8 MAX
-https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg" group-title="🏆 Sports Channels",Bein Sports Xtra {FIFA}
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
@@ -128,9 +104,6 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ng4D11Vr/entertv.jpg" group-title="🍿 Bangla Channels",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
@@ -260,6 +233,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="Rongeen TV" tvg-name="Rongeen TV" group-title="🧸 Kids Channels" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3ABN Kids" tvg-name="3ABN Kids" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814",3ABN Kids
+https://tvsen6.aynaott.com/3abnkids/index.m3u8
 
 #EXTINF:-1 tvg-id="Dios Te Ve Kids" tvg-name="Dios Te Ve Kids" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
