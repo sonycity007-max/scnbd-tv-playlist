@@ -63,9 +63,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",A-Sports (Server 2)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
-#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" group-title="🏆 Sports Channels" tvg-logo="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",Bein Sports 1
-https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",Sport Stars
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 
@@ -80,9 +77,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SPORTS FIRST" tvg-name="SPORTS FIRST" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",SPORTS FIRST
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-
-#EXTINF:-1 tvg-id="Marquee Sports" tvg-name="Marquee Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports
-https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Sports Grid" tvg-name="Sports Grid" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8
@@ -113,6 +107,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7nzTtdr/atn-bangla1.jpg" group-title="🍿 Bangla Channels",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4QWxMQ1/ayna.jpg" group-title="🍿 Bangla Channels",Ayna
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg" group-title="🍿 Bangla Channels",Channel S BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
