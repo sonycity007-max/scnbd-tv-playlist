@@ -183,6 +183,9 @@ https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",ABC News
 https://tvsen6.aynaott.com/AbcNews/index.m3u8
 
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera" tvg-name="AlJazeera" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf",AlJazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -338,6 +341,9 @@ https://tvsen6.aynaott.com/fox5/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox business" tvg-name="Fox business" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",Fox business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
+#EXTINF:-1 tvg-id="Awaaz India" tvg-name="Awaaz India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",Awaaz India
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="RDS Social TV" tvg-name="RDS Social TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV
 https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8
