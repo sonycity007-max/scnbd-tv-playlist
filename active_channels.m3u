@@ -57,6 +57,9 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",Espn
 https://tvsen5.aynaott.com/espn/index.m3u8
 
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" group-title="🏆 Sports Channels" tvg-logo="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",Bein Sports 1
+https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",Sport Stars
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 
@@ -120,8 +123,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRfwD8jk/DESH-TV1.png" group-title="🍿 Bangla Channels",Desh TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JwWDTBpG/ekusheytv.jpg" group-title="🍿 Bangla Channels",Ekushey TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ng4D11Vr/entertv.jpg" group-title="🍿 Bangla Channels",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
