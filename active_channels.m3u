@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbNGKKb9/win.jpg" group-title="🏆 Sports Channels",WIN Sports {FIFA}
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg" group-title="🏆 Sports Channels",Bein Sports 1 {FIFA}
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg" group-title="🏆 Sports Channels",Bein Sports 2
-https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg" group-title="🏆 Sports Channels",Bein Sports 3
-https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg" group-title="🏆 Sports Channels",Bein Sports 4 MAX
-https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hxDDB1Vf/bs5m.png" group-title="🏆 Sports Channels",Bein Sports 5 MAX
-https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7t6Jx7v8/bs7m.webp" group-title="🏆 Sports Channels",Bein Sports 7 MAX
-https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W7WLXQD/bs8m.png" group-title="🏆 Sports Channels",Bein Sports 8 MAX
-https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg" group-title="🏆 Sports Channels",Bein Sports Xtra {FIFA}
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
@@ -50,6 +26,9 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",Espn
 https://tvsen5.aynaott.com/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" group-title="🏆 Sports Channels" tvg-logo="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",Bein Sports 1
+https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="🏆 Sports Channels",Sport Stars
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
@@ -126,9 +105,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8" group-title="🍿 Bangla Channels",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpwqzPZg/thikana.png" group-title="🍿 Bangla Channels",Thikana TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/index.m3u8
-
 #EXTINF:-1 tvg-id="Star Jalsha" tvg-name="Star Jalsha" group-title="🍿 Bangla Entertainment" tvg-logo="https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
@@ -149,9 +125,6 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",Maasranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-
-#EXTINF:-1 tvg-id="Thikana" tvg-name="Thikana" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",Thikana
-https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DD Bangla" tvg-name="DD Bangla" group-title="🍿 Bangla Entertainment" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -329,9 +302,6 @@ https://tvsen6.aynaott.com/fox5/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox business" tvg-name="Fox business" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",Fox business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-
-#EXTINF:-1 tvg-id="Awaaz India" tvg-name="Awaaz India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",Awaaz India
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="RDS Social TV" tvg-name="RDS Social TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV
 https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8
