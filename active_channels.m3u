@@ -207,6 +207,9 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="OAN" tvg-name="OAN" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Iran Press" tvg-name="Iran Press" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
 #EXTINF:-1 tvg-id="R Plus" tvg-name="R Plus" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
@@ -321,9 +324,6 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 tvg-id="USA TV" tvg-name="USA TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6",USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653",MTV
-https://tvsen6.aynaott.com/mtv/index.m3u8?e=1779283879&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eabe7b33941d288d3e5759384db43d1c
-
 #EXTINF:-1 tvg-id="Action H'wood" tvg-name="Action H'wood" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb",Action H'wood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -365,9 +365,6 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Disc. Family" tvg-name="Disc. Family" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10",Disc. Family
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
-
-#EXTINF:-1 tvg-id="Nat Geo TV" tvg-name="Nat Geo TV" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b",Nat Geo TV
-https://tvsen6.aynaott.com/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="Wild TV" tvg-name="Wild TV" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
