@@ -33,11 +33,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png" group-title="🏆 Sports Channels",XTREM SPORTS
 https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg" group-title="🌐 Hindi Channels",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
 #EXTINF:-1 tvg-id="The Hockey Network" tvg-name="The Hockey Network" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",The Hockey Network (IT TV)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
-
-#EXTINF:-1 tvg-id="Arryadia HD 1" tvg-name="Arryadia HD 1" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia+HD&background=1e293b&color=fff&rounded=true",Arryadia HD 1
-https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arryadia TV" tvg-name="Arryadia TV" group-title="🏆 Sports Channels" tvg-logo="https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",Arryadia TV
 https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8
@@ -75,9 +75,6 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTS FIRST" tvg-name="SPORTS FIRST" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",SPORTS FIRST
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
-#EXTINF:-1 tvg-id="Marquee Sports" tvg-name="Marquee Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",Marquee Sports
-https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
-
 #EXTINF:-1 tvg-id="Sports Grid" tvg-name="Sports Grid" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",Sports Grid
 https://tvsen6.aynaott.com/SportsGrid/index.m3u8
 
@@ -110,6 +107,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7nzTtdr/atn-bangla1.jpg" group-title="🍿 Bangla Channels",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4QWxMQ1/ayna.jpg" group-title="🍿 Bangla Channels",Ayna
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg" group-title="🍿 Bangla Channels",Channel S BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
@@ -204,6 +204,12 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="OAN" tvg-name="OAN" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d",OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Iran Press" tvg-name="Iran Press" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="R Plus" tvg-name="R Plus" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
 #EXTINF:-1 tvg-id="BEK TV News" tvg-name="BEK TV News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 
@@ -228,8 +234,11 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="🧸 Kids Channels" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",Cartoon Network (Server 1)
 https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.png" group-title="🧸 Kids Channels",Sony Yay
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="🧸 Kids Channels",Cartoon Network HD (Server 2)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="🧸 Kids Channels",Nick Bangla
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="🧸 Kids Channels",Pogo
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
