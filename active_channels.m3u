@@ -126,9 +126,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ng4D11Vr/entertv.jpg" group-title="🍿 Bangla Channels",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VW3CX9WS/globaltv.jpg" group-title="🍿 Bangla Channels",Global TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3Y8NtQz/jagonews24.png" group-title="🍿 Bangla Channels",Jagonews24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
@@ -338,9 +335,6 @@ https://tvsen6.aynaott.com/fox5/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox business" tvg-name="Fox business" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",Fox business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
-
-#EXTINF:-1 tvg-id="Awaaz India" tvg-name="Awaaz India" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",Awaaz India
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="RDS Social TV" tvg-name="RDS Social TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV
 https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8
