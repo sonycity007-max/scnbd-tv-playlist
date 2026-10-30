@@ -87,9 +87,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0
 #EXTINF:-1 tvg-id="Bahrain Sports" tvg-name="Bahrain Sports" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",Bahrain Sports
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b",NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8
-
 #EXTINF:-1 tvg-id="WOF 1" tvg-name="WOF 1" group-title="🏆 Sports Channels" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",WOF 1
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 
@@ -333,9 +330,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/7deacf82c7f75cf7aaee5e0935c3d2c8",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox 5" tvg-name="Fox 5" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/4f6486854be670f7458ab60d0402ee42",Fox 5
-https://tvsen6.aynaott.com/fox5/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox business" tvg-name="Fox business" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6",Fox business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 
@@ -344,9 +338,6 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
 #EXTINF:-1 tvg-id="RDS Social TV" tvg-name="RDS Social TV" group-title="🌐 English & Hindi" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e",RDS Social TV
 https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac",Food Network
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9",TLC HD
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8
@@ -374,9 +365,6 @@ https://tvsen6.aynaott.com/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="Wild TV" tvg-name="Wild TV" group-title="🗺️ Lifestyle & Travel" tvg-logo="https://s3.aynaott.com/storage/597c839e577e81813e44812cedc50892",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-
-#EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" group-title="🕌 Religious, Weather & Info" tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discover PK" tvg-name="Discover PK" group-title="🕌 Religious, Weather & Info" tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d",Discover PK
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
