@@ -165,9 +165,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/f63d4aad95532175f7f44be439f74111",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",Sky News
-https://tvsen5.aynaott.com/skynews/index.m3u8
-
 #EXTINF:-1 tvg-id="News Nation" tvg-name="News Nation" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/1001f1d96d63da3ced733a843613b6e0",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
@@ -257,9 +254,6 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere" tvg-name="MovieSphere" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rakuten Movies" tvg-name="Rakuten Movies" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/22af43810a37af9a151f1e0a23adde63",Rakuten Movies
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
 #EXTINF:-1 tvg-id="World War TV" tvg-name="World War TV" group-title="🎬 Movies, Music & Doc" tvg-logo="https://s3.aynaott.com/storage/1e7dc35fdb26ce3aca17b41fae1aa56f",World War TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
