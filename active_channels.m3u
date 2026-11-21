@@ -150,9 +150,6 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-id="TV9 Bangla" tvg-name="TV9 Bangla" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kolkata TV" tvg-name="kolkata TV" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da",kolkata TV
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8
-
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" group-title="📰 Live News & Info" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",ABC News
 https://tvsen6.aynaott.com/AbcNews/index.m3u8
 
